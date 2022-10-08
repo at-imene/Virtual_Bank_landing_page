@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Virtual_Bank_landing_page/static/css/main.41aec9fc.css",
-    "main.js": "/Virtual_Bank_landing_page/static/js/main.92c182f6.js",
+    "main.js": "/Virtual_Bank_landing_page/static/js/main.9959b862.js",
     "static/media/video.mp4": "/Virtual_Bank_landing_page/static/media/video.7771d91114af96a0044e.mp4",
     "static/media/handsome.svg": "/Virtual_Bank_landing_page/static/media/handsome.2531a5ce6b52a5135bf9f2f2fe035b02.svg",
     "static/media/login.svg": "/Virtual_Bank_landing_page/static/media/login.a2de5f52694697b17e791da65bc1e513.svg",
@@ -10,10 +10,10 @@
     "static/media/svg1.svg": "/Virtual_Bank_landing_page/static/media/svg1.0c202398f4f55bd25c60e297e9384486.svg",
     "index.html": "/Virtual_Bank_landing_page/index.html",
     "main.41aec9fc.css.map": "/Virtual_Bank_landing_page/static/css/main.41aec9fc.css.map",
-    "main.92c182f6.js.map": "/Virtual_Bank_landing_page/static/js/main.92c182f6.js.map"
+    "main.9959b862.js.map": "/Virtual_Bank_landing_page/static/js/main.9959b862.js.map"
   },
   "entrypoints": [
     "static/css/main.41aec9fc.css",
-    "static/js/main.92c182f6.js"
+    "static/js/main.9959b862.js"
   ]
 }
