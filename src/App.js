@@ -6,7 +6,7 @@ import SignIn from "./pages/SignIn";
 function App() {
   return (
     <Router>
-      <Routes>
+      <Routes basename={process.env.REACT_APP_PUBLIC_URL}>
         <Route path="/" element={<Home />} />
         <Route path="/signin" element={<SignIn />} />
       </Routes>
